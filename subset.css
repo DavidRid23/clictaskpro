@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+body, .no-tribe-title, a, h1, h2, h3, h4, h5, h6, .home-share-type-link, .browsing-list-item-share-type-link, .share-type-link, .text-part
+{
+    font-family: 'Poppins', sans-serif;
+}
